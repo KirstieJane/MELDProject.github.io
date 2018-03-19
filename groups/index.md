@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who's involved in the MELD Project
+title: Who is involved in the MELD Project
 excerpt: "Members of the MELD Project"
 ---
 
